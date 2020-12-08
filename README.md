@@ -9,8 +9,9 @@ Anki card reviews performance are calculated using the complete revlog.
 
 The result are two heatmaps and a Pearson coefficient. In my case, no correlation exists between the two metrics.
 
+![The activities heatmap, a vertical dark column represent the sleep](activities_heatmap.png)
 ![The sleep/Anki heatmap, it shows high values around a point, with no distinctive linear correlation](result.png)
-![The activities heatmap, a vertical dark column represent the sleep](result.png)
+
 
 ## How to run
 
